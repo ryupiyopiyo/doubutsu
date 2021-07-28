@@ -4,7 +4,7 @@ from JoycontrolPlugin import JoycontrolPlugin
 logger = logging.getLogger(__name__)
 
 
-class RepeatA(JoycontrolPlugin):
+class Horu(JoycontrolPlugin):
     async def run(self):
         logger.info('================HORU==================')
 
